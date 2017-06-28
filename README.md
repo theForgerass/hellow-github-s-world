@@ -1,4 +1,18 @@
 # hellow-github-s-world
-heiheihei,you know i am an amateur
-能说汉字么
-可以的老铁
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp7
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("LiuZhengwang is a stupid person");
+            
+        }
+    }
+}
